@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 587827e571ced1a46ae11bc3327660ff, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  GameModePrefabs:
+  - {fileID: 1000013519499884, guid: 9d94516017fb9114ab95b78a5c892b29, type: 2}
+  - {fileID: 1145526546163498, guid: 9851e68a92e23f142b901cbea2e698b1, type: 2}
+  - {fileID: 1160457878208304, guid: c5d3872a15d531c418620c075399777a, type: 2}
+  - {fileID: 1737588170568918, guid: 7f51d1c3e0148a64386c5a040500a48c, type: 2}
+  PauseMenu: {fileID: 1375237050544378, guid: 47d35c640e578bd4c8cadfa60a04d28a, type: 2}
+  EndOfRoundMenu: {fileID: 1000013930694868, guid: efce54b0e37eda343aaecbfdfac3ec62,
+    type: 2}
+  InGameUi: {fileID: 1179042037617560, guid: 141d7af249467bb4abb7db1a398aef98, type: 2}
+  Levels:
+  - Map1
+  PlayerRoot: Player

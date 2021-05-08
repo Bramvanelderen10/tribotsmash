@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1d0c5e88d3726c04abfb6f6537233c1f
+timeCreated: 1484259418
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - AbilityShockwave: {instanceID: 0}
+  - AbilityRangedGrab: {instanceID: 0}
+  - AbilityWall: {instanceID: 0}
+  - AbilityChargedShot: {instanceID: 0}
+  - AbilityBomb: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

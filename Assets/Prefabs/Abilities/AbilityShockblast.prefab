@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000014157465716}
+  m_IsPrefabParent: 1
+--- !u!1 &1000014157465716
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4000010487140342}
+  - component: {fileID: 114000011338229852}
+  m_Layer: 0
+  m_Name: AbilityShockblast
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000010487140342
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014157465716}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 497.2212, y: 91.666855, z: -565.34955}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114000011338229852
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014157465716}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2802c390097433f4eb4dcc02958e318b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerIndex: 0
+  MappedButton: 3
+  AbilityName: Shockblast
+  UiIcon: {fileID: 21300000, guid: f8fdd2c2ae509fc4cb70b85c6180dbf6, type: 3}
+  PlayerState: {fileID: 0}
+  CastMSMultiplier: 0.5
+  Cooldown: 1.2
+  IsCasting: 0
+  PreCastTime: 0
+  PostCastTime: 0
+  Origin: {fileID: 0}
+  StartLocation: {x: 0, y: 1.3, z: 1.5}
+  ChargedShotPrefab: {fileID: 1000012763072230, guid: 3e11d433a916eae4181f916673533d28,
+    type: 2}
+  ChargeRate: 0.5
+  MaxCastTime: 2
+  BaseRadius: 0.1
+  BaseDamage: 0.5
+  BaseKnockbackForce: 50
+  BaseStunDuration: 0.01
+  Speed: 20
+  ReleaseDelay: 0.15
+  IsCharging: 0
+  Launch:
+    Clips:
+    - {fileID: 8300000, guid: 5a2aa1c5a0652264f8b97f03b73a3d3c, type: 3}
+    Volume: 0.8
+    Pitch:
+      Min: 1
+      Max: 1
+    LowPass:
+      Min: 1
+      Max: 1
+    Reverb: 1
+    Loop: 0
+    Rolloff: 0
+    Group: {fileID: 243707434609040018, guid: 29a15710b60cf6b4193f3419b1a4cf8e, type: 2}

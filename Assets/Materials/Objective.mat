@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Objective
+  m_Shader: {fileID: 4800000, guid: bd789c4cc88c5d34ba5aa423efe01bb2, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _Normal
+      second:
+        m_Texture: {fileID: 2800000, guid: 8aec15173b59c5f4b8f9825c442dc6b4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _BarCeiling
+      second: 0.48
+    - first:
+        name: _BarFloor
+      second: 0.52
+    - first:
+        name: _Cutoff
+      second: 0.5
+    - first:
+        name: _Health
+      second: 1
+    - first:
+        name: _Lines
+      second: 5
+    - first:
+        name: _Speed
+      second: 5
+    m_Colors:
+    - first:
+        name: _ColorEmpty
+      second: {r: 1.511, g: 0.7962634, b: 0.3333088, a: 1}
+    - first:
+        name: _ColorFull
+      second: {r: 0.5510943, g: 1.8458484, b: 3.1228678, a: 1}

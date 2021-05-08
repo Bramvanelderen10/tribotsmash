@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PickUp
+  m_Shader: {fileID: 4800000, guid: fc11f8624f6943047a135a646752784b, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _Normal
+      second:
+        m_Texture: {fileID: 2800000, guid: 62469bdfebacaa84581c08156a1e42ab, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _RefractionTexture
+      second:
+        m_Texture: {fileID: 2800000, guid: 4b8d081e9d114c7f1100f5ab44295342, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_6178
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _Cutoff
+      second: 0.5
+    - first:
+        name: _EdgeLighting
+      second: 2
+    - first:
+        name: _Opacity
+      second: 1
+    - first:
+        name: _Refraction
+      second: 0.045
+    - first:
+        name: _node_3009
+      second: 0.0397101
+    - first:
+        name: _node_3491
+      second: 2
+    - first:
+        name: _node_4439
+      second: 0.5546799
+    - first:
+        name: _node_784
+      second: 0.3494203
+    - first:
+        name: _node_8368
+      second: 4
+    - first:
+        name: _node_9454
+      second: 0.5555556
+    m_Colors:
+    - first:
+        name: _Emission
+      second: {r: 0, g: 1.3661375, b: 6.39, a: 1}
+    - first:
+        name: _node_3199
+      second: {r: 0.5, g: 0.5, b: 0.5, a: 0}
+    - first:
+        name: _node_6732
+      second: {r: 0.02205884, g: 0.7167342, b: 1, a: 1}

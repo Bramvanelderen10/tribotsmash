@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6847296d7652346409716f69fd4d24c2, type: 3}
+  m_Name: CharacterData
+  m_EditorClassIdentifier: 
+  PlayerPrefab: {fileID: 1852072664121228, guid: da5844ffe13529f41943ad9f08891223,
+    type: 2}
+  Characters:
+  - CharacterName: BulkyBot
+    ModelPrefab: {fileID: 1266844345014748, guid: 8ce01c8cfa2e6474c8e6dfd85b23364b,
+      type: 2}
+    Skins:
+    - Name: Blue
+      Texture: {fileID: 2800000, guid: f02ea6af578cc59429c70aa69bb31fe9, type: 3}
+    - Name: Camo
+      Texture: {fileID: 2800000, guid: a621df7d0caa201409fd75e81f9ba156, type: 3}
+    - Name: Green
+      Texture: {fileID: 2800000, guid: b6007de3acd845b40bfbe12b7a0a6104, type: 3}
+    - Name: Guilded
+      Texture: {fileID: 2800000, guid: fd94de48916e3714aa3c2d5c92896682, type: 3}
+    - Name: Metal
+      Texture: {fileID: 2800000, guid: 7f60d684b8eff3849acc45a7ab1f8c20, type: 3}
+    - Name: Pink
+      Texture: {fileID: 2800000, guid: 229978a4161e7a649a5f4e8711095a46, type: 3}
+    - Name: Red
+      Texture: {fileID: 2800000, guid: 95eb619a319ac954cae80b043ab343cd, type: 3}
+    - Name: Black
+      Texture: {fileID: 2800000, guid: b09bde1ee77b01048a4d9293fb1edb5d, type: 3}
+  - CharacterName: TriBot
+    ModelPrefab: {fileID: 1582879046447996, guid: 8e09526ff0e3f5b438d98f0ec5ef2a93,
+      type: 2}
+    Skins:
+    - Name: Default
+      Texture: {fileID: 0}

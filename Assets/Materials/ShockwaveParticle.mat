@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ShockwaveParticle
+  m_Shader: {fileID: 4800000, guid: 29ef47dcdf5b9604688fc4466b39f88c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _node_504
+      second:
+        m_Texture: {fileID: 2800000, guid: e08c295755c0885479ad19f518286ff2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _EdgeColorPower
+      second: 4
+    - first:
+        name: _EdgeLighting
+      second: 0
+    - first:
+        name: _Edgesize
+      second: 0.539
+    - first:
+        name: _Opacity
+      second: 0.07301889
+    - first:
+        name: _node_4402
+      second: 0.6923077
+    - first:
+        name: _node_6107
+      second: 1
+    - first:
+        name: _node_7493
+      second: 0
+    - first:
+        name: _node_7802
+      second: 1
+    m_Colors:
+    - first:
+        name: _Emission
+      second: {r: 0.2426471, g: 0.4359025, b: 1, a: 0.217}
+    - first:
+        name: _InnerColor
+      second: {r: 31.304724, g: 40.168076, b: 57.533, a: 1}
+    - first:
+        name: _OuterColor
+      second: {r: 0.5808823, g: 0.9653144, b: 1, a: 1}
+    - first:
+        name: _node_6127
+      second: {r: 0, g: 0.6275863, b: 1, a: 1}

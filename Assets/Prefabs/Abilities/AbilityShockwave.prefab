@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000011943190860}
+  m_IsPrefabParent: 1
+--- !u!1 &1000011943190860
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4000013076618008}
+  - component: {fileID: 114000011603431956}
+  m_Layer: 0
+  m_Name: AbilityShockwave
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000013076618008
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011943190860}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114000011603431956
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011943190860}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 897e8ff4f47adcd41b4f45bdf60594a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerIndex: 0
+  MappedButton: 0
+  AbilityName: Shockwave
+  UiIcon: {fileID: 21300000, guid: af086589a6c063f4290fb76501b16ed7, type: 3}
+  PlayerState: {fileID: 0}
+  CastMSMultiplier: 0.2
+  Cooldown: 5
+  IsCasting: 0
+  PreCastTime: 0.7
+  PostCastTime: 0.1
+  LMask:
+    serializedVersion: 2
+    m_Bits: 0
+  EffectsPrefab: {fileID: 1900263834154448, guid: b6d8295bb9bc6a047bc575f363507e57,
+    type: 2}
+  ShockWavePosition: {x: 0, y: 0, z: 0}
+  CastTime: 1.2
+  KnockbackDuration: 1
+  Radius: 4
+  Force: 600
+  UpwardForce: 700
+  DamageDealt: 3
+  Jump:
+    Clips:
+    - {fileID: 8300000, guid: 95fde0acdb88a2142abed60c549fe348, type: 3}
+    Volume: 1
+    Pitch:
+      Min: 0.84
+      Max: 0.94
+    LowPass:
+      Min: 0.8299999
+      Max: 0.90999997
+    Reverb: 1
+    Loop: 0
+    Rolloff: 0
+    Group: {fileID: 243707434609040018, guid: 29a15710b60cf6b4193f3419b1a4cf8e, type: 2}
+  Explosion:
+    Clips:
+    - {fileID: 8300000, guid: 95ab29f71d8e59942845041bbfbe0ed3, type: 3}
+    Volume: 0.8
+    Pitch:
+      Min: 1.16
+      Max: 1.28
+    LowPass:
+      Min: 0.8613302
+      Max: 0.96133024
+    Reverb: 1
+    Loop: 0
+    Rolloff: 0
+    Group: {fileID: 243707434609040018, guid: 29a15710b60cf6b4193f3419b1a4cf8e, type: 2}

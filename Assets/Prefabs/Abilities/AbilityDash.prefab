@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1395059458262324}
+  m_IsPrefabParent: 1
+--- !u!1 &1395059458262324
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4791803840457216}
+  - component: {fileID: 114562675230111082}
+  m_Layer: 0
+  m_Name: AbilityDash
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4791803840457216
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1395059458262324}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114562675230111082
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1395059458262324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09ecb0eb153bc3641b8423ecc24269e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerIndex: 0
+  MappedButton: 7
+  AbilityName: Dash
+  UiIcon: {fileID: 21300000, guid: 4a597d347236ead459d65dcd4f33ce67, type: 3}
+  PlayerState: {fileID: 0}
+  CastMSMultiplier: 0
+  Cooldown: 2
+  IsCasting: 0
+  PreCastTime: 0
+  PostCastTime: 0
+  DashDistance: 5
+  DashSpeed: 30
+  DamageDealt: 2
+  KnockbackDuration: 0.3
+  DashFx: {fileID: 136862, guid: f12ea2d01dc1f4624a6ebfabca2f351d, type: 2}
+  HitBoxSize: {x: 0.5, y: 0.55, z: 0.3}
+  HitBoxCenter: {x: 0, y: 1.2, z: 0.5}
+  ClipDash:
+    Clips:
+    - {fileID: 8300000, guid: af6ace32a6097fb4b8a02f3aaf7cadbd, type: 3}
+    Volume: 0.3
+    Pitch:
+      Min: 0.96
+      Max: 1.0600001
+    LowPass:
+      Min: 0.99999994
+      Max: 0.99999994
+    Reverb: 1
+    Loop: 0
+    Rolloff: 0
+    Group: {fileID: 243707434609040018, guid: 29a15710b60cf6b4193f3419b1a4cf8e, type: 2}
+  ClipHit:
+    Clips:
+    - {fileID: 8300000, guid: 855546b02848d5a4a8551a939648b208, type: 3}
+    Volume: 0.4
+    Pitch:
+      Min: 0.5
+      Max: 0.5
+    LowPass:
+      Min: 1
+      Max: 1
+    Reverb: 0.5
+    Loop: 0
+    Rolloff: 0
+    Group: {fileID: 243707434609040018, guid: 29a15710b60cf6b4193f3419b1a4cf8e, type: 2}

@@ -1,0 +1,419 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: UpperBodyMask
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000000000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/Body
+    m_Weight: 1
+  - m_Path: Armature/Body/Antenna
+    m_Weight: 1
+  - m_Path: Armature/Body/Antenna.001
+    m_Weight: 1
+  - m_Path: Armature/Body/Body.001
+    m_Weight: 1
+  - m_Path: Armature/Body/Body.001/Body.001_MeshPart0
+    m_Weight: 1
+  - m_Path: Armature/Body/Body.001/Body.001_MeshPart1
+    m_Weight: 1
+  - m_Path: Armature/Body/Cube
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 1
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 1/U Finger
+      1
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 1/U Finger
+      1/L Finger 1
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 1/U Finger
+      1/L Finger 1/L Finger 1_end
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 1/U Finger
+      1/L Finger 1/Left Lower Finger 1
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 1/U Finger
+      1/Left Upper Finger 1
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 2
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 2/U Finger
+      2
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 2/U Finger
+      2/L Finger 2
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 2/U Finger
+      2/L Finger 2/L Finger 2_end
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 2/U Finger
+      2/L Finger 2/Left Lower Finger 2
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 2/U Finger
+      2/Left Upper Finger 2
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 3
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 3/U Finger
+      3
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 3/U Finger
+      3/L Finger 3
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 3/U Finger
+      3/L Finger 3/L Finger 3_end
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 3/U Finger
+      3/L Finger 3/Left Lower Finger 3
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 3/U Finger
+      3/Left Upper Finger 3
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 4
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 4/U Finger
+      4
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 4/U Finger
+      4/L Finger 4
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 4/U Finger
+      4/L Finger 4/L Finger 4_end
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 4/U Finger
+      4/L Finger 4/Left Lower Finger 4
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand 4/U Finger
+      4/Left Upper Finger 4
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand Thumb
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand Thumb/U
+      Thumb
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand Thumb/U
+      Thumb/L Thumb
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand Thumb/U
+      Thumb/L Thumb/L Thumb_end
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand Thumb/U
+      Thumb/L Thumb/Left Lower Thumb
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/L Hand Thumb/U
+      Thumb/Left Upper Thumb
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/Left Lower Arm
+      1
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/Left Lower Arm
+      1/Left Lower Arm 1_MeshPart0
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Lower Arm/Left Lower Arm
+      1/Left Lower Arm 1_MeshPart1
+    m_Weight: 1
+  - m_Path: Armature/Body/Left Shoulder/Left Upper Arm/Left Upper Arm 1
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/Left Hand
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/Left Hand/Left
+      Hand_MeshPart0
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/Left Hand/Left
+      Hand_MeshPart1
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 1
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 1/U
+      Finger 1.001
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 1/U
+      Finger 1.001/L Finger 1.001
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 1/U
+      Finger 1.001/L Finger 1.001/L Finger 1.001_end
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 1/U
+      Finger 1.001/L Finger 1.001/Right Lower Finger 1
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 1/U
+      Finger 1.001/Right Upper Finger 1
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 2
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 2/U
+      Finger 2.001
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 2/U
+      Finger 2.001/L Finger 2.001
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 2/U
+      Finger 2.001/L Finger 2.001/L Finger 2.001_end
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 2/U
+      Finger 2.001/L Finger 2.001/Right Lower Finger 2
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 2/U
+      Finger 2.001/Right Upper Finger 2
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 3
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 3/U
+      Finger 3.001
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 3/U
+      Finger 3.001/L Finger 3.001
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 3/U
+      Finger 3.001/L Finger 3.001/L Finger 3.001_end
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 3/U
+      Finger 3.001/L Finger 3.001/Right Lower Finger 3
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 3/U
+      Finger 3.001/Right Upper Finger 3
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 4
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 4/U
+      Finger 4.001
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 4/U
+      Finger 4.001/L Finger 4.001
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 4/U
+      Finger 4.001/L Finger 4.001/L Finger 4.001_end
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 4/U
+      Finger 4.001/L Finger 4.001/Right Lower Finger 4
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand 4/U
+      Finger 4.001/Right Upper Finger 4
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand Thumb
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand Thumb/U
+      Thumb.001
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand Thumb/U
+      Thumb.001/L Thumb.001
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand Thumb/U
+      Thumb.001/L Thumb.001/L Thumb.001_end
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand Thumb/U
+      Thumb.001/L Thumb.001/Right Lower Thumb
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Lower Arm/R Hand Thumb/U
+      Thumb.001/Right Upper Thumb
+    m_Weight: 1
+  - m_Path: Armature/Body/Right Shoulder/Right Upper Arm/Right Upper Arm 1
+    m_Weight: 1
+  - m_Path: Armature/Body/Shoulder
+    m_Weight: 1
+  - m_Path: Armature/L Hip
+    m_Weight: 0
+  - m_Path: Armature/L Hip/L Upper Leg
+    m_Weight: 0
+  - m_Path: Armature/L Hip/L Upper Leg/L Lower Leg
+    m_Weight: 0
+  - m_Path: Armature/L Hip/L Upper Leg/L Lower Leg/L Lower Leg_end
+    m_Weight: 0
+  - m_Path: Armature/L Hip/L Upper Leg/L Lower Leg/Left Lower Leg.001
+    m_Weight: 0
+  - m_Path: Armature/L Hip/L Upper Leg/L Lower Leg/Left Lower Leg.002
+    m_Weight: 0
+  - m_Path: Armature/L Hip/L Upper Leg/Left Upper Leg
+    m_Weight: 0
+  - m_Path: Armature/R Hip
+    m_Weight: 0
+  - m_Path: Armature/R Hip/R Upper Leg
+    m_Weight: 0
+  - m_Path: Armature/R Hip/R Upper Leg/R Lower Leg
+    m_Weight: 0
+  - m_Path: Armature/R Hip/R Upper Leg/R Lower Leg/Left Lower Leg.000
+    m_Weight: 0
+  - m_Path: Armature/R Hip/R Upper Leg/R Lower Leg/Left Lower Leg.003
+    m_Weight: 0
+  - m_Path: Armature/R Hip/R Upper Leg/R Lower Leg/R Lower Leg_end
+    m_Weight: 0
+  - m_Path: Armature/R Hip/R Upper Leg/Right Upper Leg
+    m_Weight: 0
+  - m_Path: rig
+    m_Weight: 1
+  - m_Path: rig/root
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand 1
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand 1/ORG-U Finger 1
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand 1/ORG-U Finger 1/ORG-L Finger 1
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand 1/ORG-U Finger 1/ORG-L Finger 1/ORG-L Finger 1_end
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand 2
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand 2/ORG-U Finger 2
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand 2/ORG-U Finger 2/ORG-L Finger 2
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand 2/ORG-U Finger 2/ORG-L Finger 2/ORG-L Finger 2_end
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand 3
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand 3/ORG-U Finger 3
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand 3/ORG-U Finger 3/ORG-L Finger 3
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand 3/ORG-U Finger 3/ORG-L Finger 3/ORG-L Finger 3_end
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand 4
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand 4/ORG-U Finger 4
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand 4/ORG-U Finger 4/ORG-L Finger 4
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand 4/ORG-U Finger 4/ORG-L Finger 4/ORG-L Finger 4_end
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand Thumb
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand Thumb/ORG-U Thumb
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand Thumb/ORG-U Thumb/ORG-L Thumb
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Left Shoulder/ORG-Left Upper Arm/ORG-Left Lower
+      Arm/ORG-L Hand Thumb/ORG-U Thumb/ORG-L Thumb/ORG-L Thumb_end
+    m_Weight: 0
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand 1
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand 1/ORG-U Finger 1.001
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand 1/ORG-U Finger 1.001/ORG-L Finger 1.001
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand 1/ORG-U Finger 1.001/ORG-L Finger 1.001/ORG-L Finger 1.001_end
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand 2
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand 2/ORG-U Finger 2.001
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand 2/ORG-U Finger 2.001/ORG-L Finger 2.001
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand 2/ORG-U Finger 2.001/ORG-L Finger 2.001/ORG-L Finger 2.001_end
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand 3
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand 3/ORG-U Finger 3.001
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand 3/ORG-U Finger 3.001/ORG-L Finger 3.001
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand 3/ORG-U Finger 3.001/ORG-L Finger 3.001/ORG-L Finger 3.001_end
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand 4
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand 4/ORG-U Finger 4.001
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand 4/ORG-U Finger 4.001/ORG-L Finger 4.001
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand 4/ORG-U Finger 4.001/ORG-L Finger 4.001/ORG-L Finger 4.001_end
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand Thumb
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand Thumb/ORG-U Thumb.001
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand Thumb/ORG-U Thumb.001/ORG-L Thumb.001
+    m_Weight: 1
+  - m_Path: rig/root/ORG-Body/ORG-Right Shoulder/ORG-Right Upper Arm/ORG-Right Lower
+      Arm/ORG-R Hand Thumb/ORG-U Thumb.001/ORG-L Thumb.001/ORG-L Thumb.001_end
+    m_Weight: 1
+  - m_Path: rig/root/ORG-L Hip
+    m_Weight: 0
+  - m_Path: rig/root/ORG-L Hip/ORG-L Upper Leg
+    m_Weight: 0
+  - m_Path: rig/root/ORG-L Hip/ORG-L Upper Leg/ORG-L Lower Leg
+    m_Weight: 0
+  - m_Path: rig/root/ORG-L Hip/ORG-L Upper Leg/ORG-L Lower Leg/ORG-L Lower Leg_end
+    m_Weight: 0
+  - m_Path: rig/root/ORG-R Hip
+    m_Weight: 0
+  - m_Path: rig/root/ORG-R Hip/ORG-R Upper Leg
+    m_Weight: 0
+  - m_Path: rig/root/ORG-R Hip/ORG-R Upper Leg/ORG-R Lower Leg
+    m_Weight: 0
+  - m_Path: rig/root/ORG-R Hip/ORG-R Upper Leg/ORG-R Lower Leg/ORG-R Lower Leg_end
+    m_Weight: 0
+  - m_Path: WGT-root
+    m_Weight: 1

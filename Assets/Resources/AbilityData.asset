@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c63a44ae98345c44ba715253209f6dc, type: 3}
+  m_Name: AbilityData
+  m_EditorClassIdentifier: 
+  _abilities:
+  - Enabled: 1
+    Prefab: {fileID: 1137335805572596, guid: 0b641cc23331123448b5107dbe418eab, type: 2}
+    Ability: 0
+  - Enabled: 1
+    Prefab: {fileID: 1000014157465716, guid: 9d8e2bc2ff840ff439ec7ff08b4f571a, type: 2}
+    Ability: 1
+  - Enabled: 1
+    Prefab: {fileID: 1395059458262324, guid: 3dbc4556eee99fa4c8904cdbc57504dd, type: 2}
+    Ability: 2
+  - Enabled: 1
+    Prefab: {fileID: 1394257844254296, guid: 0b9e27f6b071d674e8a9d6aded78d111, type: 2}
+    Ability: 3
+  - Enabled: 1
+    Prefab: {fileID: 1243758596944138, guid: 5b62e141b57964b42b375120fb536125, type: 2}
+    Ability: 4
+  - Enabled: 1
+    Prefab: {fileID: 1126323630843420, guid: 2ba50d7a37f73f34fa51d19f094f03f7, type: 2}
+    Ability: 5
+  - Enabled: 1
+    Prefab: {fileID: 1000012517001958, guid: a94a1447de2a72d47999184a025ffc4a, type: 2}
+    Ability: 6
+  - Enabled: 1
+    Prefab: {fileID: 1000011943190860, guid: 18c025985642e5b4689ba9ab449f8233, type: 2}
+    Ability: 7
+  - Enabled: 1
+    Prefab: {fileID: 1840010379979696, guid: 0e0a816be3a6a674898a55d056eb8d20, type: 2}
+    Ability: 8

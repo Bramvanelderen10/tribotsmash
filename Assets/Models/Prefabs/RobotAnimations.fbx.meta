@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 0f101b64604b43b429aca070a53bb546
+timeCreated: 1480365125
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: L Finger 1
+    100006: L Finger 1.001
+    100008: L Finger 1.001_end
+    100010: L Finger 1.001_end_end
+    100012: L Finger 1_end
+    100014: L Finger 1_end_end
+    100016: L Finger 2
+    100018: L Finger 2.001
+    100020: L Finger 2.001_end
+    100022: L Finger 2.001_end_end
+    100024: L Finger 2_end
+    100026: L Finger 2_end_end
+    100028: L Finger 3
+    100030: L Finger 3.001
+    100032: L Finger 3.001_end
+    100034: L Finger 3.001_end_end
+    100036: L Finger 3_end
+    100038: L Finger 3_end_end
+    100040: L Finger 4
+    100042: L Finger 4.001
+    100044: L Finger 4.001_end
+    100046: L Finger 4.001_end_end
+    100048: L Finger 4_end
+    100050: L Finger 4_end_end
+    100052: L Hand 1
+    100054: L Hand 2
+    100056: L Hand 3
+    100058: L Hand 4
+    100060: L Hand Thumb
+    100062: L Hip
+    100064: L Lower Leg
+    100066: L Lower Leg_end
+    100068: L Lower Leg_end_end
+    100070: L Thumb
+    100072: L Thumb.001
+    100074: L Thumb.001_end
+    100076: L Thumb.001_end_end
+    100078: L Thumb_end
+    100080: L Thumb_end_end
+    100082: L Upper Leg
+    100084: Left Lower Arm
+    100086: Left Shoulder
+    100088: Left Upper Arm
+    100090: R Hand 1
+    100092: R Hand 2
+    100094: R Hand 3
+    100096: R Hand 4
+    100098: R Hand Thumb
+    100100: R Hip
+    100102: R Lower Leg
+    100104: R Lower Leg_end
+    100106: R Lower Leg_end_end
+    100108: R Upper Leg
+    100110: rig
+    100112: Right Lower Arm
+    100114: Right Shoulder
+    100116: Right Upper Arm
+    100118: //RootNode
+    100120: root
+    100122: root_end
+    100124: U Finger 1
+    100126: U Finger 1.001
+    100128: U Finger 2
+    100130: U Finger 2.001
+    100132: U Finger 3
+    100134: U Finger 3.001
+    100136: U Finger 4
+    100138: U Finger 4.001
+    100140: U Thumb
+    100142: U Thumb.001
+    100144: WGT-root
+    400000: Armature
+    400002: Body
+    400004: L Finger 1
+    400006: L Finger 1.001
+    400008: L Finger 1.001_end
+    400010: L Finger 1.001_end_end
+    400012: L Finger 1_end
+    400014: L Finger 1_end_end
+    400016: L Finger 2
+    400018: L Finger 2.001
+    400020: L Finger 2.001_end
+    400022: L Finger 2.001_end_end
+    400024: L Finger 2_end
+    400026: L Finger 2_end_end
+    400028: L Finger 3
+    400030: L Finger 3.001
+    400032: L Finger 3.001_end
+    400034: L Finger 3.001_end_end
+    400036: L Finger 3_end
+    400038: L Finger 3_end_end
+    400040: L Finger 4
+    400042: L Finger 4.001
+    400044: L Finger 4.001_end
+    400046: L Finger 4.001_end_end
+    400048: L Finger 4_end
+    400050: L Finger 4_end_end
+    400052: L Hand 1
+    400054: L Hand 2
+    400056: L Hand 3
+    400058: L Hand 4
+    400060: L Hand Thumb
+    400062: L Hip
+    400064: L Lower Leg
+    400066: L Lower Leg_end
+    400068: L Lower Leg_end_end
+    400070: L Thumb
+    400072: L Thumb.001
+    400074: L Thumb.001_end
+    400076: L Thumb.001_end_end
+    400078: L Thumb_end
+    400080: L Thumb_end_end
+    400082: L Upper Leg
+    400084: Left Lower Arm
+    400086: Left Shoulder
+    400088: Left Upper Arm
+    400090: R Hand 1
+    400092: R Hand 2
+    400094: R Hand 3
+    400096: R Hand 4
+    400098: R Hand Thumb
+    400100: R Hip
+    400102: R Lower Leg
+    400104: R Lower Leg_end
+    400106: R Lower Leg_end_end
+    400108: R Upper Leg
+    400110: rig
+    400112: Right Lower Arm
+    400114: Right Shoulder
+    400116: Right Upper Arm
+    400118: //RootNode
+    400120: root
+    400122: root_end
+    400124: U Finger 1
+    400126: U Finger 1.001
+    400128: U Finger 2
+    400130: U Finger 2.001
+    400132: U Finger 3
+    400134: U Finger 3.001
+    400136: U Finger 4
+    400138: U Finger 4.001
+    400140: U Thumb
+    400142: U Thumb.001
+    400144: WGT-root
+    2300000: WGT-root
+    3300000: WGT-root
+    4300000: WGT-root
+    7400000: Armature|Armature|Armature|AimRun|Armature|AimRun
+    7400002: Armature|Armature|Armature|ArmatureAction|Armature|ArmatureAction
+    7400004: Armature|Armature|Armature|Block|Armature|Block
+    7400006: Armature|Armature|Armature|Idle.002|Armature|Idle.002
+    7400008: Armature|Armature|Armature|Idle|Armature|Idle
+    7400010: Armature|Armature|Armature|KnockDown|Armature|KnockDown
+    7400012: Armature|Armature|Armature|RunCycle|Armature|RunCycle
+    7400014: Armature|Armature|Armature|Shockwave|Armature|Shockwave
+    7400016: Armature|Armature|Armature|Stunned|Armature|Stunned
+    7400018: Armature|Body.001|Body.001|Block|Body.001|Block
+    7400020: Armature|Body.001|Body.001|Idle.002|Body.001|Idle.002
+    7400022: Armature|Body.001|Body.001|Idle|Body.001|Idle
+    7400024: Armature|Body.001|Body.001|RunCycle|Body.001|RunCycle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: WGT-root
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
